@@ -1,6 +1,6 @@
 'use strict';
 // يخزّن ملفات الأداة فقط (لا بيانات) لتعمل دون اتصال. الطلبات لخدمات خارجية تمر للشبكة كما هي.
-const VERSION = '1.3.0+c3ded43d';
+const VERSION = '1.3.1+ffa27b66';
 const CACHE = 'waqf-letters-' + VERSION;
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
